@@ -1,0 +1,24 @@
+_repo: Somebody-s-Little-Girl_702
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Martha
+    birthdate: 1868
+    gutenberg_agent_id: '360'
+    url: http://www.gutenberg.org/2009/agents/360
+description: ''
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Orphanages -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- GITenberg
+title: Somebody's Little Girl
+url: http://www.gutenberg.org/ebooks/702
